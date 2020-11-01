@@ -1,4 +1,5 @@
  background-generator
-#New Readme file
-#New New update
-#New New New update
+This Web application developed using Javascript.
+This will provide you a color picker to generate background.
+Please click Below.
+https://fullstackking-dotnet.github.io/background-generator/.
